@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisonatbudak&layout=donut-vertical)](https://github.com/whoisonatbudak/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisonatbudak&hide=verilog&layout=donut-vertical)](https://github.com/whoisonatbudak/github-readme-stats)
 
 <!--
 **WhoIsOnatBudak/whoisonatbudak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
